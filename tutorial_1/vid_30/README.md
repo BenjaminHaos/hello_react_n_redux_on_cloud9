@@ -1,0 +1,1 @@
+[Video 30](https://egghead.io/lessons/javascript-redux-extracting-action-creators)

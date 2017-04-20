@@ -1,0 +1,1 @@
+[Video 29](https://egghead.io/lessons/javascript-redux-generating-containers-with-connect-from-react-redux-footerlink)

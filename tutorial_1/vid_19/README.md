@@ -1,0 +1,1 @@
+[Video 19](https://egghead.io/lessons/javascript-redux-react-todo-list-example-filtering-todos)

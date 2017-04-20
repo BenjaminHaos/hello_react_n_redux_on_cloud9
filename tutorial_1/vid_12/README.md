@@ -1,0 +1,1 @@
+[Video 12](https://egghead.io/lessons/javascript-redux-writing-a-todo-list-reducer-toggling-a-todo)

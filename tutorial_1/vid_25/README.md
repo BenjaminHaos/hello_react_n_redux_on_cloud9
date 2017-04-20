@@ -1,0 +1,1 @@
+[Video 25](https://egghead.io/lessons/javascript-redux-passing-the-store-down-implicitly-via-context)

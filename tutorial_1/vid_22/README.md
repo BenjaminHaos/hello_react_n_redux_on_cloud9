@@ -1,0 +1,1 @@
+[Video 22](https://egghead.io/lessons/javascript-redux-extracting-container-components-filterlink)

@@ -1,0 +1,1 @@
+[Video 26](https://egghead.io/lessons/javascript-redux-passing-the-store-down-with-provider-from-react-redux)

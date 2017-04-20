@@ -1,0 +1,1 @@
+[Video 18](https://egghead.io/lessons/javascript-redux-react-todo-list-example-toggling-a-todo)

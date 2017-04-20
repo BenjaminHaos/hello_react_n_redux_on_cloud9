@@ -1,0 +1,1 @@
+[Video 23](https://egghead.io/lessons/javascript-redux-extracting-container-components-visibletodolist-addtodo)

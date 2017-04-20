@@ -1,0 +1,1 @@
+[Video 8](https://egghead.io/lessons/javascript-redux-react-counter-example#/tab-transcript)

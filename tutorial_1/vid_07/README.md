@@ -1,0 +1,1 @@
+[Video 7](https://egghead.io/lessons/javascript-redux-implementing-store-from-scratch)

@@ -1,0 +1,1 @@
+[Video 5](https://egghead.io/lessons/javascript-redux-writing-a-counter-reducer-with-tests#/tab-transcript)
