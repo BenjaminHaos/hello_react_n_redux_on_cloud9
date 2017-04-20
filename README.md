@@ -1,4 +1,10 @@
-## NOTES
+## Hello React And Redux
+
+### (On Cloud9)
+
+
+
+
 
 https://www.npmjs.com/package/redux
 http://imcodebased.com/npm-save-or-save-dev-which-one-to-use/
