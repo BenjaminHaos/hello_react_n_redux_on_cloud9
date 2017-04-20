@@ -1,8 +1,6 @@
-## Hello React And Redux
+# Hello React And Redux On Cloud9
 
-### (On Cloud9)
-
-
+### Follow along with the Video [Tutorial](https://egghead.io/courses/getting-started-with-redux).
 
 
 
