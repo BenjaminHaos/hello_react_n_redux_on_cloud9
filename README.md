@@ -1,6 +1,7 @@
 # Hello React And Redux On Cloud9
 
-### Follow along with the Video [Tutorial](https://egghead.io/courses/getting-started-with-redux).
+### Cloud9 Working Code of:
+* Video [Tutorial #1](https://egghead.io/courses/getting-started-with-redux).
 
 
 
