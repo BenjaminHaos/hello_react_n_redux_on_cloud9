@@ -1,7 +1,12 @@
 # Hello React And Redux On Cloud9
 
-### Cloud9 Working Code of:
-* Video [Tutorial #1](https://egghead.io/courses/getting-started-with-redux).
+This repository contains code created while following two tutorial created by the creator of Redux.
+
+### Tutorial Used
+
+* Video Tutorial #1 : [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux).
+* Video Tutorial #2 : [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux).
+
 
 
 
