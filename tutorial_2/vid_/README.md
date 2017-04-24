@@ -1,1 +1,0 @@
-[Video 1](https://egghead.io/lessons/javascript-redux-simplifying-the-arrow-functions)
