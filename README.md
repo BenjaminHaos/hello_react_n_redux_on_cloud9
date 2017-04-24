@@ -20,3 +20,7 @@ This repository contains code created while following two tutorial created by th
 * Global vs Local [installation of npm packages](https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/)
 * Opensource React and Redux [Programming Books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md#redux)
 * [ReactJS Components: Learning the Basics](https://scotch.io/tutorials/reactjs-components-learning-the-basics)
+
+
+npm install -g react-scripts
+npm install -g babel-cli
