@@ -9,6 +9,8 @@ This repository contains code created while following two tutorial created by th
 
 #### Setup Repository on Cloud9
 
+***NOTE*** : *It is probably best to try this in a new VM...*
+
 ```bash
 # Move to the root directory of the VM
 cd $GOPATH 
@@ -34,3 +36,6 @@ bash hello_react_n_redux_on_cloud9/misc/setup_vm_for_repo.bash
 * Global vs Local [installation of npm packages](https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/)
 * Opensource React and Redux [Programming Books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md#redux)
 * [ReactJS Components: Learning the Basics](https://scotch.io/tutorials/reactjs-components-learning-the-basics)
+* bash scripting : [get the directory that contains your script](http://www.ostricher.com/2014/10/the-right-way-to-get-the-directory-of-a-bash-script/)
+* bash scripting : [Find all files with a filename beginning with a specified string](http://stackoverflow.com/questions/4034896/find-all-files-with-a-filename-beginning-with-a-specified-string-which-may-match)
+* 
