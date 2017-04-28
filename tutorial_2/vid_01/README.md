@@ -11,7 +11,7 @@ example_app
     │   └── <strong>index.js</strong>
     └── components
         ├── <strong>FilterLink.js</strong>
-        └── <strong>VisibleTodoList.js</strong> #test
+        └── <strong>VisibleTodoList.js</strong>
         
 </pre>
 
@@ -95,4 +95,4 @@ const mapDispatchToProps = (dispatch, ownProps) => ({
 ```
 Concise method notation is available when a function is defined inside an object.
 
-*- More [information on concise method notation](http://websnippet.io/articles/javascript/javascript-concise-methods-es6#/)*
+*- More [information on concise method notation](http://websnippet.io/articles/javascript/javascript-concise-methods-es6#/).*
