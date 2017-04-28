@@ -11,7 +11,7 @@ example_app
     │   └── <strong>index.js</strong>
     └── components
         ├── <strong>FilterLink.js</strong>
-        └── <strong>VisibleTodoList.js</strong>
+        └── <strong>VisibleTodoList.js</strong> #test
         
 </pre>
 
@@ -43,7 +43,7 @@ export const addTodo = (text) => {
 };
 ```
 
-*- More [information on Arrow Functions](http://exploringjs.com/es6/ch_arrow-functions.html).
+*- More [information on Arrow Functions](http://exploringjs.com/es6/ch_arrow-functions.html).*
 
 #### Arrow Functions Simplified with Object Expression
 
