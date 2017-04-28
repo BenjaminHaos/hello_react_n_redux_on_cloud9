@@ -42,6 +42,9 @@ export const addTodo = (text) => {
     };
 };
 ```
+
+*- More [information on Arrow Functions](http://exploringjs.com/es6/ch_arrow-functions.html).
+
 #### Arrow Functions Simplified with Object Expression
 
 This code,
