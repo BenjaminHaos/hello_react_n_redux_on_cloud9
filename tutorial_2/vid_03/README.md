@@ -14,4 +14,5 @@ example_app
 
 ### Notes
 
-Introduction to using Local Storage and using [npm module node-uuid](https://www.npmjs.com/package/node-uuid) and the [throttle utility](https://github.com/lodash/lodash/blob/master/throttle.js) from the [npm module lodash](https://www.npmjs.com/package/lodash).
+Introduction to using Local Storage and using npm module [node-uuid](https://www.npmjs.com/package/node-uuid) and the [throttle](https://github.com/lodash/lodash/blob/master/throttle.js) utility from the npm module [lodash](https://www.npmjs.com/package/lodash).
+
