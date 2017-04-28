@@ -1,4 +1,4 @@
-[Video 7]()
+[Video 7](https://egghead.io/lessons/javascript-redux-filtering-redux-state-with-react-router-params)
 
 The video references these files.
 
