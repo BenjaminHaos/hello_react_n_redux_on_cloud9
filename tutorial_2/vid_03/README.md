@@ -8,7 +8,7 @@ example_app
     ├── <strong>index.js</strong>
     └── <strong>localStorage.js</strong>
     └── actions
-        ├── index.js
+        └── index.js
 
 ```
 
