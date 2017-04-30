@@ -2,10 +2,21 @@
 
 This repository contains code created while following two tutorial created by the creator of Redux.
 
-### Tutorial Used
+* Works on Cloud9(C9).
 
-* Video Tutorial #1 : [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux).
-* Video Tutorial #2 : [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux).
+### Tutorial Used for Code
+
+* Video Tutorial Set #1 : [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux).
+* Video Tutorial Set #2 : [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux).
+    * [Code Source](https://github.com/gaearon/todos)
+        * Modified
+            * Each lesson is in a seperate folder.
+            * Each lesson runs on C9 VM.
+
+### Quick Start Videos
+
+* [React in 15ish minutes](https://www.youtube.com/watch?v=PGUMRVowdv8)
+* [React Tutorial for Beginners](https://www.youtube.com/watch?v=ZnRFerIP8aA)
 
 #### Setup Repository on Cloud9
 
