@@ -9,7 +9,7 @@ This repository contains code created while following two tutorial created by th
 
 #### Setup Repository on Cloud9
 
-***NOTE*** : *It is probably best to try this in a new VM...*
+***NOTE*** : *It is probably best to try this in a new VM before regular use...*
 
 ```bash
 # Move to the root directory of the VM
