@@ -10,7 +10,7 @@ This repository contains code created while following two tutorial created by th
 * Video Tutorial Set #2 : [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux).
     * [Code Source](https://github.com/gaearon/todos)
         * Modified
-            * Each lesson is in a seperate folder.
+            * [Each lesson](https://github.com/BenjaminHaos/hello_react_n_redux_on_cloud9/tree/master/tutorial_2) is in a seperate folder.
             * Each lesson runs on C9 VM.
 
 ### Quick Start Videos
