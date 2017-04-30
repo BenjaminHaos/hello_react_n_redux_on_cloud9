@@ -36,7 +36,8 @@ bash hello_react_n_redux_on_cloud9/misc/setup_vm_for_repo.bash
 ### Cheat-Sheets
 
 * [React](https://benjaminhaos.github.io/hello_react_n_redux_on_cloud9/documents/egghead-react-cheat-sheet-0-14-7.pdf)
-* [Redux](https://benjaminhaos.github.io/hello_react_n_redux_on_cloud9/documents/egghead-redux-cheat-sheet-3-2-1.pdf)
+* [Redux](https://benjaminhaos.github.io/hello_react_n_redux_on_cloud9/documents/redux_cheat_sheet/egghead-redux-cheat-sheet-3-2-1.pdf)
+    * The [page created](https://benjaminhaos.github.io/hello_react_n_redux_on_cloud9/documents/redux_cheat_sheet/build/index.html) by the cheat sheet.
 
 ### Documentation
 
