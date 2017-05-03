@@ -1,10 +1,9 @@
-//import React, { Component, PropTypes } from 'react'
-import React, { Component } from 'react'
-import { PropTypes } from 'prop-types'
+import React, { Component } from 'react';
+import { PropTypes } from 'prop-types';
 
 export default class Picker extends Component {
   render() {
-    const { value, onChange, options } = this.props
+    const { value, onChange, options } = this.props;
 
     return (
       <span>
@@ -18,7 +17,7 @@ export default class Picker extends Component {
           }
         </select>
       </span>
-    )
+    );
   }
 }
 
@@ -28,4 +27,4 @@ Picker.propTypes = {
   ).isRequired,
   value: PropTypes.string.isRequired,
   onChange: PropTypes.func.isRequired
-}
+};
