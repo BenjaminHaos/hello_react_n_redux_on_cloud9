@@ -1,10 +1,12 @@
 # Hello React And Redux On Cloud9
 
-This repository contains code created while following two tutorial created by the creator of Redux.
+This repository contains code created while following two tutorial created by the creator of Redux. It was put together for me to collect my thoughts on React and Redux. Although i had done a bit of research, and plenty of experiments in the past, i'd never felt any need to record any of it. This is me making good on that error. Although it might be of use to others, it is mostly for my own reference; so pardon the mess!
+
+Trello <a href="https://trello.com/b/Q43SA5c3" target="_blank">Board</a>.
 
 * Works on Cloud9(C9).
 
-### Tutorial Used for Code
+### Tutorials Used for Code
 
 * Video Tutorial Set #1 : [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux).
 * Video Tutorial Set #2 : [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux).
@@ -54,5 +56,3 @@ bash hello_react_n_redux_on_cloud9/misc/setup_vm_for_repo.bash
 * [ReactJS Components: Learning the Basics](https://scotch.io/tutorials/reactjs-components-learning-the-basics)
 * bash scripting : [get the directory that contains your script](http://www.ostricher.com/2014/10/the-right-way-to-get-the-directory-of-a-bash-script/)
 * bash scripting : [Find all files with a filename beginning with a specified string](http://stackoverflow.com/questions/4034896/find-all-files-with-a-filename-beginning-with-a-specified-string-which-may-match)
-
-Trello [Board](https://trello.com/b/Q43SA5c3)
