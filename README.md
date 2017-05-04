@@ -54,4 +54,5 @@ bash hello_react_n_redux_on_cloud9/misc/setup_vm_for_repo.bash
 * [ReactJS Components: Learning the Basics](https://scotch.io/tutorials/reactjs-components-learning-the-basics)
 * bash scripting : [get the directory that contains your script](http://www.ostricher.com/2014/10/the-right-way-to-get-the-directory-of-a-bash-script/)
 * bash scripting : [Find all files with a filename beginning with a specified string](http://stackoverflow.com/questions/4034896/find-all-files-with-a-filename-beginning-with-a-specified-string-which-may-match)
-* 
+
+Trello [Board](https://trello.com/b/Q43SA5c3)
