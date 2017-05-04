@@ -1,6 +1,6 @@
 # Hello React And Redux On Cloud9
 
-This repository contains code created while following two tutorial created by the creator of Redux. It was put together for me to collect my thoughts on React and Redux. Although i had done a bit of research, and plenty of experiments in the past, i'd never felt any need to record any of it. This is me making good on that error. Although it might be of use to others, it is mostly for my own reference; so pardon the mess!
+This repository contains code created while following two tutorial created by the creator of Redux. It was put together for me to collect my thoughts on React and Redux. Although i had done a bit of research on the two libraries, and plenty of experiments that included them, i'd never felt any need to record any of it. This is me making good on that error. Although it might be of use to others, it is mostly for my own reference; so pardon the mess!
 
 Trello <a href="https://trello.com/b/Q43SA5c3" target="_blank">Board</a>.
 
