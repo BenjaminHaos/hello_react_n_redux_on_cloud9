@@ -15,6 +15,10 @@ Trello <a href="https://trello.com/b/Q43SA5c3" target="_blank">Board</a>.
             * [Each lesson](https://github.com/BenjaminHaos/hello_react_n_redux_on_cloud9/tree/master/tutorial_2) is in a seperate folder.
             * Each lesson runs on C9 VM.
 
+### Nice Examples
+
+* https://github.com/davezuko/react-redux-starter-kit
+
 ### Quick Start Videos
 
 * [React in 15ish minutes](https://www.youtube.com/watch?v=PGUMRVowdv8)
