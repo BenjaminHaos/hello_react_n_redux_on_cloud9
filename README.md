@@ -50,6 +50,12 @@ bash hello_react_n_redux_on_cloud9/misc/setup_vm_for_repo.bash
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
 * [Redux](http://redux.js.org/) - A predictable state container for JavaScript apps.
 
+### Online Resources
+
+* SurviveJS [React](https://survivejs.com/react/).
+* SurviveJS [Webpack](https://survivejs.com/webpack/).
+
+
 #### Other Useful Links
 
 * Redux npm [package](https://www.npmjs.com/package/redux)
